@@ -10,9 +10,9 @@ export default function Main() {
                     <Navbar.Toggle aria-controls={"basic-navbar-nav"}/>
                     <Navbar.Collapse id={"basic-navbar-nav"}>
                         <Nav className="me-auto">
-                            <Link to="/InternshipProceduralDesign/student">Student</Link>
-                            <Link to="/InternshipProceduralDesign/company">Company</Link>
-                            <Link to="/InternshipProceduralDesign/curator">Curator</Link>
+                            <Link to="/InternshipProceduralDesign/student" className="nav-link">Student</Link>
+                            <Link to="/InternshipProceduralDesign/company" className="nav-link">Company</Link>
+                            <Link to="/InternshipProceduralDesign/curator" className="nav-link">Curator</Link>
                         </Nav>
                     </Navbar.Collapse>
                 </Container>

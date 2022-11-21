@@ -29,6 +29,11 @@ export default function Student() {
             </tr>
             <tr>
                 <td>Компания 3</td>
+                <td>Бэкенд Разрабочик JAVA</td>
+                <td>Ожидается ответ от компании</td>
+            </tr>
+            <tr className="table-info">
+                <td>Компания 4</td>
                 <td>React разрабочик</td>
                 <td>
                     <span className="link-success text-decoration-underline">Принять предложение</span>
@@ -39,7 +44,7 @@ export default function Student() {
                 </td>
             </tr>
             <tr className="table-success">
-                <td>Компания 4</td>
+                <td>Компания 5</td>
                 <td>.NET Разрабочик</td>
                 <td>Принято</td>
             </tr>

@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/InternshipProceduralDesign/static/css/main.14034d29.css",
-    "main.js": "/InternshipProceduralDesign/static/js/main.d17e0549.js",
+    "main.js": "/InternshipProceduralDesign/static/js/main.2ff2ff09.js",
     "index.html": "/InternshipProceduralDesign/index.html",
     "main.14034d29.css.map": "/InternshipProceduralDesign/static/css/main.14034d29.css.map",
-    "main.d17e0549.js.map": "/InternshipProceduralDesign/static/js/main.d17e0549.js.map"
+    "main.2ff2ff09.js.map": "/InternshipProceduralDesign/static/js/main.2ff2ff09.js.map"
   },
   "entrypoints": [
     "static/css/main.14034d29.css",
-    "static/js/main.d17e0549.js"
+    "static/js/main.2ff2ff09.js"
   ]
 }

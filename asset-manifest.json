@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/InternshipProceduralDesign/static/css/main.14034d29.css",
+    "main.js": "/InternshipProceduralDesign/static/js/main.35e997c5.js",
+    "index.html": "/InternshipProceduralDesign/index.html",
+    "main.14034d29.css.map": "/InternshipProceduralDesign/static/css/main.14034d29.css.map",
+    "main.35e997c5.js.map": "/InternshipProceduralDesign/static/js/main.35e997c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14034d29.css",
+    "static/js/main.35e997c5.js"
+  ]
+}

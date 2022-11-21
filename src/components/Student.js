@@ -48,6 +48,11 @@ export default function Student() {
                 <td>.NET Разрабочик</td>
                 <td>Принято</td>
             </tr>
+            <tr className="table-danger">
+                <td>Компания 6</td>
+                <td>Машинное Обучение</td>
+                <td>Отказ</td>
+            </tr>
             </tbody>
         </Table>
     )

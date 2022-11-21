@@ -12,10 +12,10 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
         <Router>
             <Routes>
-                <Route path="/" element={<Main/>}>
-                    <Route path="/student" element={<Student/>}/>
-                    <Route path="/company" element={<Company/>}/>
-                    <Route path="/curator" element={<Curator/>}/>
+                <Route path="/IntershipProcedureDesign" element={<Main/>}>
+                    <Route path="/IntershipProcedureDesign/student" element={<Student/>}/>
+                    <Route path="/IntershipProcedureDesign/company" element={<Company/>}/>
+                    <Route path="/IntershipProcedureDesign/curator" element={<Curator/>}/>
                 </Route>
             </Routes>
         </Router>

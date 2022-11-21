@@ -20,23 +20,28 @@ export default function Student() {
             </tr>
             <tr>
                 <td>Го разрабочик</td>
-                <td>ожидаеться означения на собеседования</td>
+                <td>ожидается приглашения на собеседование</td>
             </tr>
             <tr>
                 <td>УЦР</td>
                 <td>Андройд разрабочик</td>
-                <td>Собеседования в: 20.11.2022 17:00</td>
+                <td>Собеседование в: 20.11.2022 17:00</td>
             </tr>
             <tr>
                 <td>Компания 3</td>
                 <td>React разрабочик</td>
                 <td>
-                    <span className="link-success text-decoration-underline">Принять оффер</span>
+                    <span className="link-success text-decoration-underline">Принять предложение</span>
                     &nbsp;
                     /
                     &nbsp;
                     <span className="link-danger text-decoration-underline">Отказаться</span>
                 </td>
+            </tr>
+            <tr className="table-success">
+                <td>Компания 4</td>
+                <td>.NET Разрабочик</td>
+                <td>Принято</td>
             </tr>
             </tbody>
         </Table>
